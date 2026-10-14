@@ -1,0 +1,6 @@
+{
+  "name": "Knot — CUNY Commuter Friendship & Events",
+  "description": "Campus friendship and event-matching platform designed specifically for CUNY commuter students to turn campus gaps into meaningful connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
